@@ -97,6 +97,18 @@ Exemplo de execução, implementado pois data lake no formato delta.
  <img src="img/DF2.PNG" width="500px" />
 </p></br>
 
+:books: **Sql Server + Banco de Dadoso**
+<p>
+ <img src="img/Sql_Server&Banco.PNG" width="500px" />
+</p></br>
+
+
+:books: **Azure Synapse Studio**
+<p>
+ <img src="img/Synapse.PNG" width="500px" />
+</p></br>
+
+
 
 :moneybag: **Precificação| Gerenciamento de custo + cobrança | Conta de cobrança**
 <p>
