@@ -55,7 +55,7 @@ Neste projeto foram utilizadas as seguintes ferramentas:
 :heavy_check_mark: Azure Data Lake Storage - ADLS\
 :heavy_check_mark: Azure Data Factory\
 :heavy_check_mark: Data Flow\
-:heavy_check_mark: Synapse\
+:heavy_check_mark: Azure Synapse\
 :heavy_check_mark: Dedicated SQL Pool - Antigo Azure Data Warehouse \
 :heavy_check_mark: Servelees SQL Pool\
 :heavy_check_mark: Apache Spark Pool\
@@ -65,6 +65,8 @@ Neste projeto foram utilizadas as seguintes ferramentas:
 :heavy_check_mark: Gerenciamento de Recursos\
 :heavy_check_mark: Engenharia de dados : Coletar, Tratar e disponibilizar o dado;\
 :heavy_check_mark: Analise de dados: Consumir, analisar e disponilizar os insight;
+
+
 
 
 
@@ -97,18 +99,25 @@ Exemplo de execução, implementado pois data lake no formato delta.
  <img src="img/DF2.PNG" width="500px" />
 </p></br>
 
-:books: **Sql Server + Banco de Dadoso**
-<p>
- <img src="img/Sql_Server&Banco.PNG" width="500px" />
-</p></br>
-
 
 :books: **Azure Synapse Studio**
 <p>
  <img src="img/Synapse.PNG" width="500px" />
+ <img src="img/Synapse2.PNG" width="500px" />
  <img src="img/Synapse1.PNG" width="500px" />
 </p></br>
 
+:books: **Pool SQL PolyBAse Consulta Distribuida**
+<p>
+ <img src="img/PollSQL.PNG" width="500px" />
+ <img src="img/PollConsultaDistribuida.PNG" width="500px" />
+</p></br>
+
+
+:books: **Sql Server + Banco de Dadoso**
+<p>
+ <img src="img/Sql_Server&Banco.PNG" width="500px" />
+</p></br>
 
 
 :moneybag: **Precificação| Gerenciamento de custo + cobrança | Conta de cobrança**
