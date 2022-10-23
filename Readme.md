@@ -87,8 +87,9 @@ Exemplo de execução, implementado pois data lake no formato delta.
 
 :sparkler: **Azure Data Factory**
 <p>
- <img src="img/ADF.PNG" width="500px" />
+ <img src="img/Adf.PNG" width="500px" />
 </p></br>
+
 
 :sparkler: **Data Flow**
 <p>
