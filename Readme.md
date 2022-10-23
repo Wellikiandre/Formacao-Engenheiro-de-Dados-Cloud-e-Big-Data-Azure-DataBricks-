@@ -106,6 +106,7 @@ Exemplo de execução, implementado pois data lake no formato delta.
 :books: **Azure Synapse Studio**
 <p>
  <img src="img/Synapse.PNG" width="500px" />
+ <img src="img/Synapse1.PNG" width="500px" />
 </p></br>
 
 
