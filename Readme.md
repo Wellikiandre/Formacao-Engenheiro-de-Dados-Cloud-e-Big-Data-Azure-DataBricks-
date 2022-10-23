@@ -111,6 +111,7 @@ Exemplo de execução, implementado pois data lake no formato delta.
 <p>
  <img src="img/PollSQL.PNG" width="500px" />
  <img src="img/PollConsultaDistribuida.PNG" width="500px" />
+ <img src="img/PollSQL2.PNG" width="500px" />
 </p></br>
 
 
