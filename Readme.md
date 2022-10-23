@@ -8,7 +8,7 @@
   <!-- <a href="https://www.linkedin.com/in/wellikiandre/">LinkdeIn</a> -->
 </div>
 
-<h2 align="center">Formação Engenharia de Dados e Big Data (Azure e DataBricks)</h2>
+<h2 align="center">Formação Engenharia de Dados e Big Data (DP-203)</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wellikiandre/">
@@ -74,6 +74,13 @@ Neste projeto foram utilizadas as seguintes ferramentas:
 Segue os prints das execuções em ambiente cloud
 
 
+:clock12: **Gerenciamento de Recursos**
+<p>
+<img src="img/gerenciamento_recurso1.PNG" width="500px" />
+<img src="img/gerenciamento_recurso2.PNG" width="500px" />
+</p></br>
+
+
 :file_folder: **Azure Blob Storage**
 Exemplo de execução, não implementado pois não havia necessidade.
 <p>
@@ -107,11 +114,12 @@ Exemplo de execução, implementado pois data lake no formato delta.
  <img src="img/Synapse1.PNG" width="500px" />
 </p></br>
 
-:books: **Pool SQL PolyBAse Consulta Distribuida**
+:books: **Pool SQL PolyBase Consulta Distribuida**
 <p>
  <img src="img/PollSQL.PNG" width="500px" />
  <img src="img/PollConsultaDistribuida.PNG" width="500px" />
  <img src="img/PollSQL2.PNG" width="500px" />
+ <img src="img/PollSQL1.PNG" width="500px" />
 </p></br>
 
 
@@ -134,11 +142,6 @@ Exemplo de execução, implementado pois data lake no formato delta.
 
 
 
-:clock12: **Gerenciamento de Recursos**
-<p>
-<img src="img/gerenciamento_recurso1.PNG" width="500px" />
-<img src="img/gerenciamento_recurso2.PNG" width="500px" />
-</p></br>
 
 
 <a href="#top">Back to top</a>
