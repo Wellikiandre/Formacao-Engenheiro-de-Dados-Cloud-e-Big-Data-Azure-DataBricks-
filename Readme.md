@@ -76,69 +76,78 @@ Segue os prints das execuções em ambiente cloud
 
 :clock12: **Gerenciamento de Recursos**
 <p>
-<img src="img/gerenciamento_recurso1.PNG" width="500px" />
-<img src="img/gerenciamento_recurso2.PNG" width="500px" />
+<img src="img/gerenciamento_recurso1.PNG" width="700px" />
+<img src="img/gerenciamento_recurso2.PNG" width="700px" />
 </p></br>
 
 
 :file_folder: **Azure Blob Storage**
 Exemplo de execução, não implementado pois não havia necessidade.
 <p>
- <img src="img/blobStorage.PNG" alt="Fundamentos De Engenharia De Dados" width="500px" />
+ <img src="img/blobStorage.PNG" alt="Fundamentos De Engenharia De Dados" width="700px" />
 </p></br>
 
 :file_folder: **Azure Data Lake Storage Gen2- ADLS**
 Exemplo de execução, implementado pois data lake no formato delta.
 <p>
- <img src="img/ADLS.PNG" width="500px" />
- <img src="img/Exemplo.PNG" width="500px" />
+ <img src="img/ADLS.PNG" width="700px" />
+ <img src="img/Exemplo.PNG" width="700px" />
 </p></br>
 
 :sparkler: **Azure Data Factory**
 <p>
- <img src="img/Adf.PNG" width="500px" />
+ <img src="img/Adf.PNG" width="700px" />
 </p></br>
 
 
 :sparkler: **Data Flow**
 <p>
- <img src="img/DF1.PNG" width="500px" />
- <img src="img/DF2.PNG" width="500px" />
+ <img src="img/DF1.PNG" width="700px" />
+ <img src="img/DF2.PNG" width="700px" />
 </p></br>
 
 
 :books: **Azure Synapse Studio**
 <p>
- <img src="img/Synapse.PNG" width="500px" />
- <img src="img/Synapse2.PNG" width="500px" />
- <img src="img/Synapse1.PNG" width="500px" />
+ <img src="img/Synapse.PNG" width="700px" />
+ <img src="img/Synapse2.PNG" width="700px" />
+ <img src="img/Synapse1.PNG" width="700px" />
 </p></br>
 
 :books: **Synapse Pool SQL Consulta Distribuida**
 <p>
- <img src="img/PollSQL.PNG" width="500px" />
- <img src="img/PollConsultaDistribuida.PNG" width="500px" />
- <img src="img/PollSQL2.PNG" width="500px" />
- <img src="img/PollSQL1.PNG" width="500px" />
- <img src="img/Exec.PNG" width="500px" />
+ <img src="img/PollSQL.PNG" width="700px" />
+ <img src="img/PollConsultaDistribuida.PNG" width="700px" />
+ <img src="img/PollSQL2.PNG" width="700px" />
+ <img src="img/PollSQL1.PNG" width="700px" />
+ <img src="img/Exec.PNG" width="700px" />
+</p></br>
+
+:books: **Synapse Serveless**
+<p>
+ <img src="img/serveless.PNG" width="700px" />
+  <img src="img/serveless2.PNG" width="700px" />
+   <img src="img/serveless3.PNG" width="700px" />
+    <img src="img/serveless4.PNG" width="700px" />
+     <img src="img/serveless5.PNG" width="700px" />
 </p></br>
 
 
 :books: **Sql Server + Banco de Dadoso**
 <p>
- <img src="img/Sql_Server&Banco.PNG" width="500px" />
+ <img src="img/Sql_Server&Banco.PNG" width="700px" />
 </p></br>
 
 
 :moneybag: **Precificação| Gerenciamento de custo + cobrança | Conta de cobrança**
 <p>
- <img src="img/custo.PNG" width="500px" />
+ <img src="img/Custo.PNG" width="700px" />
 </p></br>
 
 
 :left_luggage: **Segurança | Assinaturas**
 <p>
- <img src="img/Key.PNG" width="500px" />
+ <img src="img/Key.PNG" width="700px" />
 </p></br>
 
 
