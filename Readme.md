@@ -114,12 +114,13 @@ Exemplo de execução, implementado pois data lake no formato delta.
  <img src="img/Synapse1.PNG" width="500px" />
 </p></br>
 
-:books: **Pool SQL PolyBase Consulta Distribuida**
+:books: **Synapse Pool SQL Consulta Distribuida**
 <p>
  <img src="img/PollSQL.PNG" width="500px" />
  <img src="img/PollConsultaDistribuida.PNG" width="500px" />
  <img src="img/PollSQL2.PNG" width="500px" />
  <img src="img/PollSQL1.PNG" width="500px" />
+ <img src="img/Exec.PNG" width="500px" />
 </p></br>
 
 
