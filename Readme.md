@@ -123,6 +123,16 @@ Exemplo de execução, implementado pois data lake no formato delta.
  <img src="img/Exec.PNG" width="700px" />
 </p></br>
 
+:books: **Synapse Pool Apache Spark**
+<p>
+ <img src="img/spark.PNG" width="700px" />
+ <img src="img/spark1.PNG" width="700px" />
+ <img src="img/spark2.PNG" width="700px" />
+ <img src="img/spark3.PNG" width="700px" />
+ <img src="img/spark4.PNG" width="700px" />
+ <img src="img/spark5.PNG" width="700px" />
+</p></br>
+
 :books: **Synapse Serveless**
 <p>
  <img src="img/serveless.PNG" width="700px" />
@@ -137,7 +147,6 @@ Exemplo de execução, implementado pois data lake no formato delta.
 <p>
  <img src="img/Sql_Server&Banco.PNG" width="700px" />
 </p></br>
-
 
 :moneybag: **Precificação| Gerenciamento de custo + cobrança | Conta de cobrança**
 <p>
