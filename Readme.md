@@ -151,6 +151,7 @@ Exemplo de execução, implementado pois data lake no formato delta.
 :moneybag: **Precificação| Gerenciamento de custo + cobrança | Conta de cobrança**
 <p>
  <img src="img/Custo.PNG" width="700px" />
+ <img src="img/Custo2.PNG" width="700px" />
 </p></br>
 
 
