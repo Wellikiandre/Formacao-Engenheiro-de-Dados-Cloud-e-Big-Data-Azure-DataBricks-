@@ -161,3 +161,6 @@ Exemplo de execução, implementado pois data lake no formato delta.
 </p></br>
 
 <a href="#top">Back to top</a>
+
+Certificado:
+https://www.udemy.com/certificate/UC-361b1996-e8b5-4605-84ba-f59b956eb55e/
