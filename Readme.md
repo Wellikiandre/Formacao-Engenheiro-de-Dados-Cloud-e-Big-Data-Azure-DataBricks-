@@ -23,6 +23,7 @@
 </h4> 
 
 
+
 <hr> -->
 
 <p align="center">
@@ -40,11 +41,6 @@
 <a href="pdf/Formação Material Utilizado.pdf">
         <img src="img/clique aqui.png" alt="Engenharia De Dados Cloud" /> 
 </a>
-</br>
-
-
-
-
 
 ## :rocket: Technologies ##
 
@@ -68,11 +64,9 @@ Neste projeto foram utilizadas as seguintes ferramentas:
 
 
 
-
-
 ## :checkered_flag: Projeto ##
 Segue os prints das execuções em ambiente cloud
-
+Certificado:https://udemy-certificate.s3.amazonaws.com/image/UC-361b1996-e8b5-4605-84ba-f59b956eb55e.jpg?v=1666658133000
 
 :clock12: **Gerenciamento de Recursos**
 <p>
@@ -162,5 +156,4 @@ Exemplo de execução, implementado pois data lake no formato delta.
 
 <a href="#top">Back to top</a>
 
-Certificado:
-https://www.udemy.com/certificate/UC-361b1996-e8b5-4605-84ba-f59b956eb55e/
+
