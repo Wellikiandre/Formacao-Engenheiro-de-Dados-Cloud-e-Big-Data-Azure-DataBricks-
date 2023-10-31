@@ -66,7 +66,7 @@ Neste projeto foram utilizadas as seguintes ferramentas:
 
 ## :checkered_flag: Projeto ##
 Segue os prints das execuções em ambiente cloud
-Certificado:https://udemy-certificate.s3.amazonaws.com/image/UC-361b1996-e8b5-4605-84ba-f59b956eb55e.jpg?v=1666658133000
+Certificado:https:/azure-certificate.com/image/UC-361b1996-e8as-4605-84ba-f59b956eb55e?v=1666658133000
 
 :clock12: **Gerenciamento de Recursos**
 <p>
